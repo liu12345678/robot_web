@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RobotWeb.Global" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.home" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>home.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.home_others_Info" Collapsed="true">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>home_others_Info.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.login" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.page1" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>page1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.RPM_History" Collapsed="true">
+    <Position X="4" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>RPM_History.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.test" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>test.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotWeb.WebService1">
+    <Position X="3.25" Y="2.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="RobotWeb.WebService1.Customer">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.online_robot_data">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.page1_data">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.search_history_data_buf">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.history_page_process">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.history_page_dataget">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RobotWeb.WebService1.search_history_data" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WebService1.asmx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAIAAAAAAAAAAAABBAAAAAAIAEIA=</HashCode>
+      <FileName>WebService1.asmx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
